@@ -456,23 +456,23 @@ Do not skip the explanation of `idx`. That formula is the main Week 02 idea.
 
 Minimum:
 
-- [ ] `results/week-02-vector-add.md` exists
-- [ ] It includes the Python reference output
-- [ ] It explains vector add in plain language
-- [ ] It explains one-thread-one-element mapping
+- [x] `results/week-02-vector-add.md` exists
+- [x] It includes the Python reference output
+- [x] It explains vector add in plain language
+- [x] It explains one-thread-one-element mapping
 
 Standard:
 
-- [ ] It identifies the host arrays and device arrays in `cuda/vector_add.cu`
-- [ ] It explains the global index formula
-- [ ] It explains the bounds check
-- [ ] It records CUDA availability
+- [x] It identifies the host arrays and device arrays in `cuda/vector_add.cu`
+- [x] It explains the global index formula
+- [x] It explains the bounds check
+- [x] It records CUDA availability
 
 Stretch:
 
-- [ ] You compiled `cuda/vector_add.cu` with `nvcc`
-- [ ] You ran the CUDA program with two input sizes
-- [ ] You wrote one debugging hypothesis for a wrong output
+- [x] You compiled `cuda/vector_add.cu` with `nvcc`
+- [x] You ran the CUDA program with two input sizes
+- [x] You wrote one debugging hypothesis for a wrong output
 
 ## Next Week
 
